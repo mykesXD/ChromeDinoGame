@@ -11,3 +11,6 @@ Luckily after 3 years I just found an USB drive that I used during that time whi
 - SDL2
 - SDL2 Image
 
+# Download
+
+https://github.com/Mykesss/Chrome-Dino-Game/files/5979033/Dino.Game.zip
