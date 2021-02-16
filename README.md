@@ -11,3 +11,7 @@ Luckily after 3 years found an USB drive that I used during that time which happ
 # Packages
 - SDL2
 - SDL2 Image
+
+# Download
+
+> https://github.com/Mykesss/ChromeDinoGame/files/5986030/ChromeDino.zip
